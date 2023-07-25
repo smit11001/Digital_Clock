@@ -4,13 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ Digital Clock with save thoughts using shared preferences.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+![Screenshot_20230725-195138](https://github.com/smit11001/Digital_Clock/assets/113500028/893e08a5-723b-4498-bc41-145d2d8e62d4)
+![Screenshot_20230725-195145](https://github.com/smit11001/Digital_Clock/assets/113500028/3cd5ab5a-fd19-47db-8fc0-baefdb7d2e4a)
